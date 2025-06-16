@@ -1,4 +1,18 @@
 body {
     background-color: black;
     color: goldenrod;
+
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+}
+
+header {
+    font-size: 60px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
