@@ -9,8 +9,9 @@ body {
 
 header {
     font-size: 50px;
-    border: double 5px pink;
-    margin: 30px;
+    border-bottom: double 5px pink;
+    padding: 30px;
+    text-align: center;
 }
 
 h1{
