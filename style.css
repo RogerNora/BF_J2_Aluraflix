@@ -21,3 +21,9 @@ h1{
 p {
     font-size: 20px;
 }
+
+section {
+    background-color:rgb(59, 173, 204) ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
